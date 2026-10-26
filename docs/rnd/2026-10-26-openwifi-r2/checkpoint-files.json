@@ -1,0 +1,61 @@
+{
+  "manifest_excludes_itself": true,
+  "files": [
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/README.md",
+      "mode": "100644",
+      "bytes": 5100,
+      "sha256": "a058c1a47089e1a73258226d713e1e9a40a6b7d04cc76e434966fa1783fc055d",
+      "git_blob_sha": "5deba690c31b55d5215a7c880ff2845b0a2ebe39"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/board-and-usb.md",
+      "mode": "100644",
+      "bytes": 5912,
+      "sha256": "e7f6912858670c8e119b83a00025308f09aac4705b6e6ea1bfe5f35f7fbebd4a",
+      "git_blob_sha": "1d7cf3632daac8b40a3c6828f5ce19ad5b41c0d0"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/findings-and-errors.md",
+      "mode": "100644",
+      "bytes": 8556,
+      "sha256": "c1a8804302d1e84341ae0231f13b849176be1b4dbc43b801dd85661622c9f07b",
+      "git_blob_sha": "d38f3bd1e565ce8f7f4e11818ea541d1e647e2cf"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/offline-regression.json",
+      "mode": "100644",
+      "bytes": 1884,
+      "sha256": "8f1e3b7b0d3067ec4d20f694870a6cbe566cd2539b4dd21e8bdb5de6f2d5a942",
+      "git_blob_sha": "e6686469a5afc155cce8f1a5945b0b94b14f59fb"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/provenance.json",
+      "mode": "100644",
+      "bytes": 4487,
+      "sha256": "a9589597e4548a7535891da296c76d3a99d3596cb79dffacf688542a15e09db3",
+      "git_blob_sha": "136f3d55d71ac971c8f98e0132f343299375c4f7"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/publication-checks.json",
+      "mode": "100644",
+      "bytes": 717,
+      "sha256": "77270536e09f4428d1944bba1d71d15f8dcb91840e000f828fa41a7284ef8b88",
+      "git_blob_sha": "3ff9fa1a99a4db060db25f19a6afd3b2e904bdd1"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/recovery.md",
+      "mode": "100644",
+      "bytes": 7288,
+      "sha256": "2293a2aad9278b75249cd7a16c5fedc666776ad13f172faf82a3fc7c6e6dd1d5",
+      "git_blob_sha": "b40e7a08610e5dfca6983afcf14ec5f44a79edb1"
+    },
+    {
+      "path": "docs/rnd/2026-10-26-openwifi-r2/validation.json",
+      "mode": "100644",
+      "bytes": 3594,
+      "sha256": "faf98d3aeb3782af31ca8eacfe857ec48b6ebd6f9242b9db483814b9b4f36eb6",
+      "git_blob_sha": "a25fd1e2994b1c82afa137d91e921efdfe275103"
+    }
+  ]
+}
